@@ -27,8 +27,8 @@ The system can be applied in areas like automated parking, vehicle tracking, and
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/plaka-tanima.git
-cd plaka-tanima
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/license-plate-recognition.git
+   cd license-plate-recognition
+   pip install -r requirements.txt 
